@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Jeff-PFD/Jeff-PFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeff-pfd/jeff-pfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - ⚡ Fun fact: I hate fun facts!
